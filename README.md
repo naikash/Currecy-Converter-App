@@ -1,4 +1,4 @@
-# Currecy-Converter-python project
+# Currecy-Converter
 A Currency Converter application that fetches real-time exchange rates and converts amounts between different currencies using the ExchangeRate-API.
 ## Features
 - Fetch real-time exchange rates
