@@ -8,4 +8,4 @@ A Currency Converter application that fetches real-time exchange rates and conve
 - Python 3.x
 - requests library
 
-python currency_converter.py
+
